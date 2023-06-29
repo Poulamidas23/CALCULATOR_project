@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Lobster+Two:ital,wght@0,700;1,400&family=Oswald:wght@200&family=Passion+One&display=swap');
+html,body{
+    height: 100%;
+    width:100%;
+    background: linear-gradient(45deg,#101010,#3a4452);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.contaner{
+
+    border: 1px solid #808389;
+    border-radius: 16px;
+    padding: 20px;
+    background: linear-gradient(45deg,#101010,#3a4452);
+    box-shadow: 0px 3px 15px rgb(113, 115, 119, 0.5);
+}
+.max-auto{
+    margin: auto;
+}
+.rows-equal{
+    width: 145px;
+}
+.bco{
+    background: greenyellow;
+}
+.flex{
+ display: flex;
+}
+.rows{
+    margin: 5px 0px;
+}
+.rows input{
+    width: 291px;
+    font-size: 40px;
+      margin: 0px;
+      padding: 25px 0px;
+      border-radius: 5px;
+    background: transparent;
+    box-shadow: 0px 3px 15px rgb(84, 84, 84, 0.1);
+    text-align: right;
+    color: #ffffff;
+
+  }
+.button {
+    width: 66px;
+    margin: 6px 3px;
+    padding: 11px 8px 14px 8px;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    box-shadow: -8px -8px 15px rgb(255, 255, 255, 0.1);
+}
+.del{
+    background: rgb(251, 177, 39);
+    text-align: center;
+
+}

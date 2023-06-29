@@ -1,0 +1,16 @@
+
+.bggred{
+    background: lightblue;
+}
+.center{
+    text-align: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.bgco{
+    background: lightcoral;
+}
